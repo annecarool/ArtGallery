@@ -1,11 +1,19 @@
 <resources>
     <string name="app_name">Art Gallery</string>
+    <string name ="introdution"></string>
+    <string name="title_principal">Magnificent Works</string>
+    <string name="title_amendoeira">Almond Blossom</string>
+    <string name="desc_amendoeira">Vincent van Gogh, 1890</string>
     <string name="title_noite">The Starry Night</string>
     <string name="desc_noite">Vincent van Gogh, 1889</string>
     <string name="title_retrato">Self-Portrait</string>
     <string name="desc_retrato">Vincent van Gogh, 1889</string>
+    <string name="title_lirios">Lilies</string>
+    <string name="desc_lirios">Vincent van Gogh, 1889</string>
     <string name ="title_girassois">The Sunflowers</string>
     <string name ="desc_girassois">Vincent van Gogh, 1888</string>
+    <string name ="title_terraco">Cafe Terrace at Night</string>
+    <string name ="desc_terraco">Vincent van Gogh, 1888</string>
     <string name="title_cortados">Two Cut Sunflowers</string>
     <string name="desc_cortados">Vincent van Gogh, 1887</string>
     <string name="title_caveira">Skull With Lit Cigarette</string>
